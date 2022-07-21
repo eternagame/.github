@@ -20,7 +20,7 @@ Thanks for lending us your time and talent! ❤️
 ## Questions and Community
 
 Have questions about contributing, or want to get in touch with us to talk shop (or anything else)?
-Join the [![Eterna Discord](https://discord.com/api/guilds/702618517589065758/widget.png?style=banner2)](https://discord.gg/KYeTwux).
+Join the Eterna Discord: [![Eterna Discord](https://discord.com/api/guilds/702618517589065758/widget.png?style=banner2)](https://discord.gg/KYeTwux).
 
 ## Feature Requests and Bug Reports
 
