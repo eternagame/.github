@@ -96,7 +96,7 @@ Some advice to help ensure things go smoothly:
   not aiming for 100% code coverage (that is more likely to cause friction as tests are more likely to break, and there's
   a good chance the tests wouldn't be particularly high quality), but we want enough tests to verify that we can update
   dependencies and other areas of the code and feel reasonably secure that nothing breaks. It's also a good way to make
-  sure you're handling edge cases in logic.
+  sure you're handling edge cases in logic and understanding desired behavior.
 - In some situations, we may not approve of adding a feature you may have written. Especially if it's a more complex feature
   or there is likelihood of disagreement, it may be a good idea to open a feature request for the issue first to allow for
   discussion.
