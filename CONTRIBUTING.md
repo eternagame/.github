@@ -56,6 +56,11 @@ you might want to contribute to? Take a look at the following:
 - Our next-generation RNA design interface and RNA design libraries: https://github.com/eternagame/eternajs-next
 - Automated tooling and core configurations for our "next-gen" repositories https://github.com/eternagame/workspace-helpers
 
+## Contributor License Agreement
+
+Please be aware that before any contributions are merged into our repositories, you will need
+to sign our [Contributor License Agreement](https://cla-assistant.io/eternagame/.github).
+
 ## Pull Request Workflow
 
 1. Find something to work on! If you already have something in mind, awesome. Otherwise, Take a look
