@@ -1,6 +1,6 @@
 <!--
     Thank you for submitting a pull request! We appreciate your time and effort.
-    Please make sure you have read our contributing guidelines before posting an PR
+    Please make sure you have read our contributing guidelines before posting a PR
     https://github.com/eternagame/.github/blob/master/CONTRIBUTING.md
 -->
 
@@ -9,8 +9,9 @@
     eternagame.org-next, or eternajs-next), ensure that your PR title follows the conventional
     commit standard. This will be verified by our continuous integration.
     
-    The general format is: `<type>(<scope>): <description>`. For libraries published outside the scope of
-    this repository, if a breaking change is introduced, you will also need to add a `!` before `:`.
+    The general format is: `<type>(<scope>): <description>`. If a breaking change is introduced,
+    you will also need to add a `!` before `:`.
+    
     Example: `fix(core): Fixes a problem with the core module`
     
     You can find a list of types at https://github.com/commitizen/conventional-commit-types/blob/master/index.json
@@ -18,7 +19,7 @@
 
     To find a list of valid scopes, take a look at the `scope:` issue labels in the repository you are
     submitting this PR to. Note that if you are adding a new scope and you use that scope in the same PR,
-    the CI will fail. That is expected, as as that GitHub action needs to base its configuration on
+    the CI will fail. That is expected, as that GitHub action needs to base its configuration on
     the master branch - the PR will be merged ignoring the check in that case.
     
 
