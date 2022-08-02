@@ -54,7 +54,7 @@ you might want to contribute to? Take a look at the following:
 - Our current mobile app: https://github.com/eternagame/eterna-mobile
 - Our next-generation website: https://github.com/eternagame/eternagame.org-next
 - Our next-generation RNA design interface and RNA design libraries: https://github.com/eternagame/eternajs-next
-- Automated tooling and core configurations for our "next-gen" repositories https://github.com/eternagame/workspace-helpers
+- Automated tooling and core configurations for our "next-gen" repositories: https://github.com/eternagame/workspace-helpers
 
 ## Contributor License Agreement
 
@@ -63,7 +63,7 @@ to sign our [Contributor License Agreement](https://cla-assistant.io/eternagame/
 
 ## Pull Request Workflow
 
-1. Find something to work on! If you already have something in mind, awesome. Otherwise, Take a look
+1. Find something to work on! If you already have something in mind, awesome. Otherwise, take a look
    at the GitHub issues in a repository that interests you, especially issues with the "good first issue" label
    if you're just getting started. If it seems useful, you may want to start out by discussing design decisions
    in a relevant GitHub issue.
@@ -95,7 +95,7 @@ Some advice to help ensure things go smoothly:
   are ideal. This allows your commit history to be useful documentation when seeing why changes were made (either during the
   PR process or far in the future). Make your commit messages as descriptive as possible!
 - Make sure to fill out the PR template with as much detail as you can - this will help us review your PR faster
-  and ensure ensure we have high-quality context we can reference down the line if needed
+  and ensure ensure we have high-quality context we can reference down the line if needed.
 - If reasonable, add automated tests! This helps make us (and you) confident that your change works as intended, and
   helps us ensure our code continues to work as we continue to change it into the future. That said, don't go crazy - we're
   not aiming for 100% code coverage (that is more likely to cause friction as tests are more likely to break, and there's
