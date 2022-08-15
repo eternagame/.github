@@ -1,6 +1,6 @@
 name: 📘 Documentation Feedback
 description: Note areas for improvement in documentation, guides, reference materials, etc
-labels: ["type: docs"]
+labels: ["type: docs", "pending triage"]
 body:
   - type: textarea
     id: description

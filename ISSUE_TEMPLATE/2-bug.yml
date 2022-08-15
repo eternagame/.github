@@ -1,6 +1,6 @@
 name: 🐞 Bug Report
 description: Report something that's incorrect or not working properly
-labels: ["type: bug"]
+labels: ["type: bug", "pending triage"]
 body:
   - type: textarea
     id: expected
