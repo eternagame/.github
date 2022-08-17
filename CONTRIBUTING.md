@@ -40,6 +40,16 @@ In particular, if submitting a bug report please be sure to provide specific ste
 the issue reliably (please provide a minimal reproduction for library usage bugs!) as well as any
 relevant system information.
 
+### Triaging
+
+New issues submitted to our repositories will automatically be given the "pending triage" label. We will then assign it
+a priority based on the following system:
+* p1/urgent: Product is unusable for majority of users 
+* p2/important: A large number of users have a significant pain point or a significant use case is prevented 
+* p3/standard: Enhancement with nominal value or bug with nominal impact
+* p4/minor: There is a reasonable workaround, or there is a nice to have with limited impact
+* p5/chore: A cleanup with no end-user impact 
+
 ## Getting Started
 
 If you're not familiar with Git and GitHub, [GitHub's Quickstart](https://docs.github.com/en/get-started/quickstart) is
