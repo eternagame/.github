@@ -14,14 +14,14 @@
     
     Example: `fix(core): Fixes a problem with the core module`
     
-    You can find a list of types at https://github.com/commitizen/conventional-commit-types/blob/master/index.json
-    (`feat`, `fix`, and `docs` are probably the most likely)
+    Valid types are feat (feature/enhancement), fix (bugfix), perf (performance), revert (reverting a prior commit),
+    deps (dependencies), docs (documentation), refactor (refactoring), test (updating automated tests), or
+    chore (formatting changes, build/tooling/ci updates, other configuration updates, etc)
 
     To find a list of valid scopes, take a look at the `scope:` issue labels in the repository you are
     submitting this PR to. Note that if you are adding a new scope and you use that scope in the same PR,
     the CI will fail. That is expected, as that GitHub action needs to base its configuration on
     the master branch - the PR will be merged ignoring the check in that case.
-    
 
     For additional details on the conventional commits format, see: https://www.conventionalcommits.org
 -->
