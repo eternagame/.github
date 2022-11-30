@@ -5,9 +5,9 @@
 -->
 
 <!--
-    First, if you are submitting to one of our "next gen" repositories (workspace-helpers,
-    eternagame.org-next, or eternajs-next), ensure that your PR title follows the conventional
-    commit standard. This will be verified by our continuous integration.
+    First, if you are submitting to one of our "next gen" repositories (workspace-helpers or
+    eterna-next), ensure that your PR title follows the conventional commit standard.
+    This will be verified by our continuous integration.
     
     The general format is: `<type>(<scope>): <description>`. If a breaking change is introduced,
     you will also need to add a `!` before `:`.
