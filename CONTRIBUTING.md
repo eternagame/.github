@@ -19,7 +19,7 @@ Thanks for lending us your time and talent! ❤️
 
 ## Questions and Community
 
-Have questions about contributing, or want to get in touch with us to talk shop (or anything else)?
+Have questions about contributing or want to get in touch with us to talk shop (or anything else)?
 Join the Eterna Discord: [![Eterna Discord](https://discord.com/api/guilds/702618517589065758/widget.png?style=banner2)](https://discord.gg/KYeTwux).
 
 ## Feature Requests and Bug Reports
@@ -47,7 +47,7 @@ a priority based on the following system:
 * p1/urgent: Product is unusable for majority of users 
 * p2/important: A large number of users have a significant pain point or a significant use case is prevented 
 * p3/standard: Enhancement with nominal value or bug with nominal impact
-* p4/minor: There is a reasonable workaround, or this is a nice to have with limited impact
+* p4/minor: There is a reasonable workaround or this is a nice to have with limited impact
 * p5/chore: A cleanup with no end-user impact 
 
 ## Getting Started
