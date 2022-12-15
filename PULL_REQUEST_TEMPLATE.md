@@ -28,6 +28,8 @@
 
 <!--
     Finally, help us review your changes and provide a record for later reference by providing some information.
+    Note that the PR description will be used as the commit description when the PR is merged, so please
+    keep it up to date as you make any changes!
 -->
 
 ## Summary
