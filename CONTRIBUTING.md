@@ -15,7 +15,7 @@ Thanks for lending us your time and talent! ❤️
   - [Code Style and Readability](#code-style-and-readability)
   - [Code Quality, Reliability, and Maintainability](#code-quality-reliability-and-maintainability)
   - [Design, Visuals, and Interactions](#design-visuals-and-interactions)
-- [Financial Contributions](#financial-contribution)
+- [Financial Contributions](#financial-contributions)
 
 ## Questions and Community
 
@@ -47,7 +47,7 @@ a priority based on the following system:
 * p1/urgent: Product is unusable for majority of users 
 * p2/important: A large number of users have a significant pain point or a significant use case is prevented 
 * p3/standard: Enhancement with nominal value or bug with nominal impact
-* p4/minor: There is a reasonable workaround, or there is a nice to have with limited impact
+* p4/minor: There is a reasonable workaround, or this is a nice to have with limited impact
 * p5/chore: A cleanup with no end-user impact 
 
 ## Getting Started
@@ -105,7 +105,7 @@ Some advice to help ensure things go smoothly:
   are ideal. This allows your commit history to be useful documentation when seeing why changes were made (either during the
   PR process or far in the future). Make your commit messages as descriptive as possible!
 - Make sure to fill out the PR template with as much detail as you can - this will help us review your PR faster
-  and ensure ensure we have high-quality context we can reference down the line if needed.
+  and ensure we have high-quality context we can reference down the line if needed.
 - If reasonable, add automated tests! This helps make us (and you) confident that your change works as intended, and
   helps us ensure our code continues to work as we continue to change it into the future. That said, don't go crazy - we're
   not aiming for 100% code coverage (that is more likely to cause friction as tests are more likely to break, and there's
