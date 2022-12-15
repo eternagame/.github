@@ -98,6 +98,30 @@ to sign our [Contributor License Agreement](https://cla-assistant.io/eternagame/
 9. Congrats, and thank you! Your code has been accepted and will be deployed with the next release. At this point,
    you can delete the branch you were working on (if you move on to another task, you'll create a fresh branch).
 
+### Conventional Commits
+
+We ask that when submitting a PR, you provide a title that follows the conventional commits standard.
+Some of our repositories will verify this in continuous integration.
+
+The general format is: `<type>(<scope>): <description>`. If a breaking change is introduced,
+you will also need to add a `!` before `:`.
+
+Example: `fix(core): Fixes a problem with the core module`
+
+Valid types are feat (feature/enhancement), fix (bugfix), perf (performance), revert (reverting a prior commit),
+deps (dependencies), docs (documentation), refactor (refactoring), test (updating automated tests), or
+chore (formatting changes, build/tooling/ci updates, other configuration updates, etc)
+
+To find a list of valid scopes, take a look at the `scope:` issue labels in the repository you are
+submitting this PR to. If there are no scope labels, you may omit the `(<scope>)` portion of the title.
+Note that if you are adding a new scope to the CI configuration and you use that scope in the same PR,
+the CI will fail. That is expected, as that GitHub action needs to base its configuration on
+the master branch - the PR will be merged ignoring the check in that case.
+
+For additional details on the conventional commits format, see: https://www.conventionalcommits.org
+
+### Additional Advice
+
 Some advice to help ensure things go smoothly:
 - Limit the scope of a PR. The smaller the change and the less code there is to review, the faster we can review it
   and we'll be able to provide higher-quality feedback.
