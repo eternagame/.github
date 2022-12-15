@@ -1,0 +1,66 @@
+name: 🐞 Bug Report
+description: Report something that's incorrect or not working properly
+labels: ["type: bug", "pending triage"]
+body:
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: |
+        What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current Behavior
+      description: |
+        What actually happened?
+        
+        Please include detailed behavior, full errors, uncaught exceptions, stack traces, and relevant logs.
+        Screenshots, videos, etc will also help!
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction Steps
+      description: |
+        For an application usage related issue, what are the exact steps that someone else could take
+        that cause this behavior? This should have the minimum number of steps necessary, but provide
+        all necessary steps in detail. Additionally, it should be reliable, occurring every time the
+        steps are taken. In the case of a live Eterna application, please be sure to include a link
+        if relevant.
+
+        For a library usage related issue, provide a self-contained, concise snippet of code that can
+        be used to reproduce the issue. For more complex issues provide a repo with the smallest sample
+        that reproduces the bug. The code sample should be an SSCCE. See http://sscce.org/ for details.
+        In short, please provide a code sample that we can copy/paste, run and reproduce.
+
+        If you don't provide a detailed, reliable reproduction, we may not be able to identify and
+        resolve the issue.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: |
+        For a web application usage related issue, please provide the version of your OS, browser, and
+        any other relevant hardware or software.
+
+        For issues related to NodeJS applications, libraries, development, etc please provide the version
+        of your OS, NodeJS, NPM, the application/library in question, and any other relevant software.
+
+        Running `npx envinfo` is a quick way to get much of the relevant information you may need
+      render: shell
+    validations:
+      required: false
+  - type: textarea
+    id: other
+    attributes:
+      label: Other information
+      description: |
+        e.g. Additional context, related issues, suggestions how to fix, etc
+    validations:
+      required: false

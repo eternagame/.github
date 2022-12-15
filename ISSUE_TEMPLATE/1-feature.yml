@@ -1,0 +1,36 @@
+name: 🚀 Feature Request
+description: Suggest an idea
+labels: ["type: enhancement", "pending triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your idea
+      description: A clear and concise description of the feature you are proposing.
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: |
+        Why do you want this? Why is it beneficial? What problem does this solve? Explain your
+        use case/context/rationale.
+    validations:
+        required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: |
+        How might this work? If you can, include prototype/workaround/sketch/reference implementation.
+    validations:
+      required: false
+  - type: textarea
+    id: other
+    attributes:
+      label: Other Information
+      description: |
+        Any alternative solutions or features you considered, a more detailed explanation, related issues, links for context, etc.
+    validations:
+      required: false
