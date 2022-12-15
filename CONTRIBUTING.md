@@ -104,9 +104,11 @@ We ask that when submitting a PR, you provide a title that follows the conventio
 Some of our repositories will verify this in continuous integration.
 
 The general format is: `<type>(<scope>): <description>`. If a breaking change is introduced,
-you will also need to add a `!` before `:`.
+you will also need to add a `!` before the `:`.
 
-Example: `fix(core): Fixes a problem with the core module`
+Examples:
+* `fix(core): Fixes a problem with the core module`
+* `feat(secondary)!: A breaking change adding a new feature in the secondary module`
 
 Valid types are feat (feature/enhancement), fix (bugfix), perf (performance), revert (reverting a prior commit),
 deps (dependencies), docs (documentation), refactor (refactoring), test (updating automated tests), or
