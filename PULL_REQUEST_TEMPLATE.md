@@ -1,35 +1,12 @@
 <!--
     Thank you for submitting a pull request! We appreciate your time and effort.
     Please make sure you have read our contributing guidelines before posting a PR
-    https://github.com/eternagame/.github/blob/master/CONTRIBUTING.md
--->
+    https://github.com/eternagame/.github/blob/main/CONTRIBUTING.md
 
-<!--
-    First, if you are submitting to one of our "next gen" repositories (workspace-helpers or
-    eterna-next), ensure that your PR title follows the conventional commit standard.
-    This will be verified by our continuous integration.
-    
-    The general format is: `<type>(<scope>): <description>`. If a breaking change is introduced,
-    you will also need to add a `!` before `:`.
-    
-    Example: `fix(core): Fixes a problem with the core module`
-    
-    Valid types are feat (feature/enhancement), fix (bugfix), perf (performance), revert (reverting a prior commit),
-    deps (dependencies), docs (documentation), refactor (refactoring), test (updating automated tests), or
-    chore (formatting changes, build/tooling/ci updates, other configuration updates, etc)
-
-    To find a list of valid scopes, take a look at the `scope:` issue labels in the repository you are
-    submitting this PR to. Note that if you are adding a new scope and you use that scope in the same PR,
-    the CI will fail. That is expected, as that GitHub action needs to base its configuration on
-    the master branch - the PR will be merged ignoring the check in that case.
-
-    For additional details on the conventional commits format, see: https://www.conventionalcommits.org
--->
-
-<!--
-    Finally, help us review your changes and provide a record for later reference by providing some information.
-    Note that the PR description will be used as the commit description when the PR is merged, so please
-    keep it up to date as you make any changes!
+    Please title your PR according to the conventional commits standard - see the contributing
+    guidelines for more info. Additionally, help us review your changes and provide a record for
+    later reference by providing the information below. Note that the PR description will be used
+    as the commit description when the PR is merged, so please keep it up to date as you make any changes!
 -->
 
 ## Summary
