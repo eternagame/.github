@@ -89,8 +89,7 @@ to sign our [Contributor License Agreement](https://cla-assistant.io/eternagame/
    Fill out the pull request template. Make a note if there's anything that needs to be done before
    the PR is merged (you may want to make it a draft in that case) or if there's any advice you could
    use from us to help get it over the finish line (also feel free to get in touch via Discord!). Note that pull request
-   titles must comply with the [conventional commit](https://www.conventionalcommits.org) format - more info is available
-   in the PR template.
+   titles should comply with the [conventional commit](https://www.conventionalcommits.org) format - see below for more info.
 6. Ensure that the CI status checks (which verify everything builds, linting and tests pass, etc) all succeed. If not,
    resolve the issues.
 7. Once all status checks pass, we'll review your PR and provide any feedback we feel is needed.
