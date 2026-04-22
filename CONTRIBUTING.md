@@ -59,12 +59,10 @@ If you came here from another repository, that repository should have informatio
 about how to get your development environment set up. New to our GitHub and don't know what projects
 you might want to contribute to? Take a look at the following:
 
-- Our current game/RNA design interface: https://github.com/eternagame/EternaJS
-- Our current website frontend: https://github.com/eternagame/eternagame.org
-- Our current mobile app: https://github.com/eternagame/eterna-mobile
-- Our next-generation website: https://github.com/eternagame/eternagame.org-next
-- Our next-generation RNA design interface and RNA design libraries: https://github.com/eternagame/eternajs-next
-- Automated tooling and core configurations for our "next-gen" repositories: https://github.com/eternagame/workspace-helpers
+- Our game/RNA design interface: https://github.com/eternagame/EternaJS
+- Our website frontend: https://github.com/eternagame/eternagame.org
+- Our mobile app: https://github.com/eternagame/eterna-mobile
+- Our "next-gen" automated tooling and core configurations: https://github.com/eternagame/workspace-helpers
 
 ## Contributor License Agreement
 
