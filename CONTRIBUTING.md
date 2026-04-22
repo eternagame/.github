@@ -214,8 +214,8 @@ Here's some things we look for when reviewing contributions.
 ## Financial Contributions
 
 If you want to make a financial contribution, you can support Eterna's work by making a donation.
-- To make a personal, tax-deductible donation to the Eterna research fund, administered by Stanford University,
-  visit https://give.stanford.edu/med/fund/?kwoDCFilter=KDC-3G8MQ45&kwoDCPreselect=KDC-3G8MQ45&olc=14209
+- To make a personal, tax-deductible donation to [Frameshifter](https://frameshifter.org/) (a program of
+- the 501c3 [Superbloom Design](https://superbloom.design/)), the organization that maintains Eterna,
+  visit [our page on Every.org](https://www.every.org/frameshifter?theme_color=f16413&utm_campaign=github-contributing)
 - If you wish to support our longer-term projects through through a large gift,
-  please contact [Eterna's principal investigator](mailto:rhiju@stanford.edu) or the
-  [Stanford development office](mailto:medicalgiving@stanford.edu).
+  please contact [Eterna's principal investigator](mailto:rhiju@stanford.edu).
